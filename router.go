@@ -4,7 +4,7 @@ package main
 
 import (
 	"github.com/cloudwego/hertz/pkg/app/server"
-	"github.com/lizaiganshenmo/auto-gen-data/biz/handler"
+	handler "github.com/lizaiganshenmo/auto-gen-data/biz/handler"
 )
 
 // customizeRegister registers customize routers.
